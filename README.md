@@ -63,11 +63,6 @@ I'm passionate about building scalable web applications and backend systems that
 
 </div>
 
-### 📈 Contribution Graph
-![Contribution Graph](https://github.com/Sallarmirza/Sallarmirza/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## 📫 Let's Connect!
 
 I'm always open to discussing new opportunities, interesting projects, or just having a tech chat!
