@@ -1,6 +1,6 @@
 # Salar Ahmed Mirza
 
-**Software Engineer** | ⚡ **Full Stack Developer (JavaScript & Python)** | 🚀 **React.js, FastAPI & Django Developer**
+**Software Engineer** | ⚡ **Full Stack Developer (JavaScript & Python)** | 🚀 **MERN Stack and Python Developer**
 
 I'm passionate about building scalable web applications and backend systems that solve real-world problems. With expertise in modern frameworks and databases, I create impactful digital solutions that deliver exceptional user experiences. Exploring Machine Learning and AI-powered applications, leveraging Python and deep learning frameworks to integrate intelligent features into software systems.
 
